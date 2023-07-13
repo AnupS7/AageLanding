@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aage",
+      "sha256_cert_fingerprints": [
+        "da:10:e1:31:d1:b9:46:0b:10:a1:9b:e5:c5:29:68:eb:e8:2f:ea:53:3a:e5:98:fb:0d:c5:d5:1f:cb:f0:50:62"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aage.staging",
+      "sha256_cert_fingerprints": [
+        "da:10:e1:31:d1:b9:46:0b:10:a1:9b:e5:c5:29:68:eb:e8:2f:ea:53:3a:e5:98:fb:0d:c5:d5:1f:cb:f0:50:62"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.aage.dev",
+      "sha256_cert_fingerprints": [
+        "da:10:e1:31:d1:b9:46:0b:10:a1:9b:e5:c5:29:68:eb:e8:2f:ea:53:3a:e5:98:fb:0d:c5:d5:1f:cb:f0:50:62"
+      ]
+    }
+  }
+]
