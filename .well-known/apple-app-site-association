@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      { "appID": "WCQFXGV6KY.com.Aage", "paths": ["/*"] },
+      { "appID": "WCQFXGV6KY.com.Aage.staging", "paths": ["/*"] },
+      { "appID": "WCQFXGV6KY.com.Aage.dev", "paths": ["/*"] }
+    ]
+  }
+}
